@@ -2,7 +2,7 @@
 // what is argument? -> arguments are input you pass in the command line
 #include <stdio.h>
 
-int	main(int argc, char *argv[])
+int	main(int argc, char *argv)
 {
 	int i;
 
